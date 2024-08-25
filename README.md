@@ -30,12 +30,11 @@ Welcome to my GitHub profile! I'm a passionate Data Science and AI enthusiast, c
 - **🧠 Generative AI:** Exploring the world of synthetic data and creating models that can think, learn, and generate like humans.
 
 ## 🛠 **Tech Stack**
-
-- **Languages:** Python, C++, JavaScript
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-Learn
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js
-- **Tools & Platforms:** Git, Docker, Power BI, AWS, Google Cloud
-- **Databases:** MySQL, MongoDB
+Languages: Python 🐍, C++ 🌟, JavaScript ☕
+Machine Learning: TensorFlow 🌐, PyTorch 🔥, Scikit-Learn 📚
+Web Development: HTML 🌺, CSS 🌸, JavaScript ✨, React ⚛️, Node.js 🌳
+Tools & Platforms: Git 🐱‍💻, Docker 🐳, Power BI 📊, AWS ☁️, Google Cloud 🌥️
+Databases: MySQL 💾, MongoDB 🍃
 
 ## 🌟 **Current Projects**
 
@@ -53,15 +52,12 @@ Welcome to my GitHub profile! I'm a passionate Data Science and AI enthusiast, c
 - **Advanced AI Techniques:** Exploring reinforcement learning and advanced neural networks.
 - **CS50's Introduction to Computer Science:** Strengthening my foundational knowledge and problem-solving skills.
 - **Open Source Contributions:** Actively contributing to open-source projects to give back to the community.
+🎯 Goals for 2024
+🌟 Secure a Fellowship: Aiming high in Data Science, AI, or Software Engineering!
+🌍 Open Source Contributions: Giving back to the tech community, one pull request at a time.
+🌈 Portfolio Glow-Up: Keep my portfolio fresh and fabulous with new projects and ideas.
+💌 Let's Be Friends!
+Email: [abhamahato2026@gmail.com]
+LinkedIn: Let's Connect
+Portfolio: abhamahato.in
 
-## 💡 **Get In Touch**
-
-- **Email:** [abhamahto2026@gmail.com]
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abha-mahato)
-- **Portfolio:** [abhamahato.in](https://abhamahato.in)
-
-## 🎯 **Goals for 2024**
-
-- **Obtain a Fellowship:** Aiming to secure a fellowship in Data Science, AI, or Software Engineering.
-- **Contribute to Open Source:** Make meaningful contributions to major open-source AI projects.
-- **Build a Strong Portfolio:** Continuously update my portfolio with projects, blogs, and tutorials.
