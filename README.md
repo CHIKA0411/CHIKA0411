@@ -1,7 +1,3 @@
-Here's an updated version that includes badges for the languages and libraries you've mentioned:
-
----
-
 # 👩‍💻 Hey there, I'm **Abha Mahato**!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76C6C&lines=Data+Scientist+%7C+AI+Enthusiast+%7C+Software+Engineer)](https://git.io/typing-svg)
