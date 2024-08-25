@@ -1,63 +1,59 @@
+Here's an updated version that includes badges for the languages and libraries you've mentioned:
 
+---
 
-<!--
-**CHIKA0411/CHIKA0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Hey there, I'm **Abha Mahato**!
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F76C6C&lines=Data+Scientist+%7C+AI+Enthusiast+%7C+Software+Engineer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Abha Mahato!
+✨ **A curious third-year BTech student at ITER Bhubaneswar, exploring the realms of Data Science, AI, and Software Engineering!** ✨
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhamahato.in-blue)](https://abhamahato.in) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow)](https://github.com/your-username)
+## 🌱 **What I'm Currently Up To:**
+- 🌍 Working on exciting AI projects that merge innovation with technology.
+- 💻 Deep diving into machine learning, neural networks, and generative AI.
+- 🚀 Enhancing lunar crater images using AI (Because why not? 🚀🌕)
+- 🎓 Learning the ropes of computer science with CS50.
 
-Welcome to my GitHub profile! I'm a passionate Data Science and AI enthusiast, currently in a student of B.Tech at ITER Bhubaneswar. I thrive on solving real-world problems with technology and have a deep interest in Machine Learning, Generative AI, and Optimization.
+## 🔧 **Technologies & Tools:**
 
-## 🚀 **What I Do**
+### Languages:
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-- **🔍 Data Science & AI:** Building predictive models, optimizing processes, and creating intelligent systems that drive meaningful insights.
-- **💻 Machine Learning Projects:** From recommendation systems to GANs, I enjoy experimenting with data and algorithms to push the boundaries of what's possible.
-- **🌐 Web Development:** Crafting user-friendly interfaces and integrating them with powerful backend systems.
-- **🧠 Generative AI:** Exploring the world of synthetic data and creating models that can think, learn, and generate like humans.
+### Libraries & Frameworks:
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-## 🛠 **Tech Stack**
-Languages: Python 🐍, C++ 🌟, JavaScript ☕
-Machine Learning: TensorFlow 🌐, PyTorch 🔥, Scikit-Learn 📚
-Web Development: HTML 🌺, CSS 🌸, JavaScript ✨, React ⚛️, Node.js 🌳
-Tools & Platforms: Git 🐱‍💻, Docker 🐳, Power BI 📊, AWS ☁️, Google Cloud 🌥️
-Databases: MySQL 💾, MongoDB 🍃
+### Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🌟 **Current Projects**
+### Areas of Interest:
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🎨 GANs
+- 🌿 Energy Efficiency Optimization
 
-- **Energy Efficiency Optimization in Manufacturing:** Leveraging GANs, XGBoost, and RNN to optimize energy consumption and reduce waste.
-- **AI-Driven Maintenance Bill Optimization:** Developing an AI model for predictive maintenance, cost optimization, and automated billing.
-- **Hackathons & Competitions:** Actively participating in AI and ML hackathons, including enhancement of PSR of lunar craters by ISRO.
+## 📈 **My Recent Projects:**
+- ✨ **[AI-Driven Maintenance Bill Optimization](https://github.com/your-repo-link):** Streamlining billing with AI, XGBoost, and Power BI.
+- ✨ **[GAN for Architectural Building Images](https://github.com/your-repo-link):** Creating architectural wonders with CGAN.
+- ✨ **[Movie Recommendation System](https://github.com/your-repo-link):** Helping you find your next movie obsession with ML!
 
-## 📈 **GitHub Stats**
+## 🎯 **Goals for 2024:**
+- 🌟 Secure a fellowship in Data Science, AI, or Software Engineering.
+- 🌟 Contribute to open-source projects and collaborate with awesome developers.
+- 🌟 Enhance my skills with more certifications and real-world projects.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIKA0411&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHIKA0411&layout=compact&theme=radical)
-
-## 🌱 **What I'm Learning**
-
-- **Advanced AI Techniques:** Exploring reinforcement learning and advanced neural networks.
-- **CS50's Introduction to Computer Science:** Strengthening my foundational knowledge and problem-solving skills.
-- **Open Source Contributions:** Actively contributing to open-source projects to give back to the community.
-🎯 Goals for 2024
-🌟 Secure a Fellowship: Aiming high in Data Science, AI, or Software Engineering!
-🌍 Open Source Contributions: Giving back to the tech community, one pull request at a time.
-🌈 Portfolio Glow-Up: Keep my portfolio fresh and fabulous with new projects and ideas.
-💌 Let's Be Friends!
-Email: [abhamahato2026@gmail.com]
-LinkedIn: Let's Connect
-Portfolio: abhamahato.in
-
+## 📫 **Let's Connect!**
+- **Portfolio:** [abhamahato.in](https://abhamahato.in) 🌐
+- **LinkedIn:** [linkedin.com/in/abha-mahato](https://linkedin.com/in/abha-mahato) 💼
+- **Twitter:** [@abha_mahato](https://twitter.com/abha_mahato) 🐦
+- **Email:** abhamahato2026@gmail.com 📧
