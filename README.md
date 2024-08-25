@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Creating a GitHub profile README is a great way to showcase who you are, your skills, and what you're working on. Here's a tailored profile README template for you:
-
----
-
 # 👋 Hi, I'm Abha Mahato!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhamahato.in-blue)](https://abhamahato.in) 
@@ -49,8 +45,8 @@ Welcome to my GitHub profile! I'm a passionate Data Science and AI enthusiast, c
 
 ## 📈 **GitHub Stats**
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIKA0411&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHIKA0411&layout=compact&theme=radical)
 
 ## 🌱 **What I'm Learning**
 
