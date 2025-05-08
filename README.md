@@ -41,9 +41,8 @@
 ## 📈 **My Recent Projects:**
 - ✨ **[AI-Driven Maintenance Bill Optimization](https://github.com/your-repo-link):** Streamlining billing with AI, XGBoost, and Power BI.
 - ✨ **[GAN for Architectural Building Images](https://github.com/your-repo-link):** Creating architectural wonders with CGAN.
-- ✨ **[Movie Recommendation System](https://github.com/your-repo-link):** Helping you find your next movie obsession with ML!
 
-## 🎯 **Goals for 2024:**
+## 🎯 **Goals for 2025:**
 - 🌟 Secure a fellowship in Data Science, AI, or Software Engineering.
 - 🌟 Contribute to open-source projects and collaborate with awesome developers.
 - 🌟 Enhance my skills with more certifications and real-world projects.
